@@ -10,7 +10,7 @@ func main(){
   fmt.Println("======================================")
   fmt.Println("\nUsing type int, 1 + 1 = ", 1 + 1)
   fmt.Println("Using type float, 1.0 + 1.0 = ", 1.0 + 1.0)
-  fmt.Println("Using type float, 1.1 + 1.2 = ", 1.1 + 1.2)
+  fmt.Println("Using type float, 1.1 + 1.2 = ", 1.1 + 1.1)
   fmt.Println("\n")
 
   // Strings
