@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main(){
+
   // Integers and Floating-Point Numbers
   fmt.Println("\n")
   fmt.Println("Integers and Floating-Point Numbers")
@@ -11,6 +12,7 @@ func main(){
   fmt.Println("Using type float, 1.0 + 1.0 = ", 1.0 + 1.0)
   fmt.Println("Using type float, 1.1 + 1.2 = ", 1.1 + 1.2)
   fmt.Println("\n")
+
   // Strings
   fmt.Println("Strings")
   fmt.Println("========")
@@ -21,6 +23,7 @@ func main(){
   fmt.Println("The last character of 'Hello World' is", string("Hello World"[10]))
   fmt.Println("Lets " + "concatenate " + "Hello " + "World")
   fmt.Println("\n")
+
   // Booleans
   fmt.Println("Booleans")
   fmt.Println("========")
